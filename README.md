@@ -1,1 +1,1 @@
-# calculator-react
+React project "Calculator"
